@@ -1,3 +1,10 @@
+//MSP430 code sending joystick values to rx and tx pins
+//Needs Mux code for when Mux is added
+//Run in code composer
+
+
+
+
 #include <msp430.h>
 #include <stdlib.h>
 #include <stdio.h>
